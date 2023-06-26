@@ -1,4 +1,4 @@
-[Phishing Email](https://app.letsdefend.io/challenge/phishing-email)
+[Phishing Email - LetsDefend](https://app.letsdefend.io/challenge/phishing-email)
 
 ```
 curl https://api.letsdefend.io/download/downloadfile/PhishingChallenge.zip/ --output PhishingChallenge.zip

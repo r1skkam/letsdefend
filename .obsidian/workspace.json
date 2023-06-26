@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4920a0681b0a85d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "challenge/challenge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5c37d0226101251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "training/training.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "499975207ff96a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "challenge/challenge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "challenge/challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "challenge/challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "challenge/challenge.md"
               }
             }
           }
@@ -146,6 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5e907c553a1e2e8",
-  "lastOpenFiles": []
+  "active": "499975207ff96a73",
+  "lastOpenFiles": [
+    "challenge/Phishing Email.md",
+    "README.md",
+    "challenge/challenge.md",
+    "challenge/Pasted/Phishing Email/Pasted image 20230627000513.png",
+    "challenge/Pasted/Phishing Email",
+    "challenge/Pasted/Phishing Email/Pasted image 20230627002144.png",
+    "training",
+    "monitoring",
+    "challenge",
+    "challenge/Pasted/Phishing Email/Pasted image 20230627000824.png",
+    "challenge/Pasted",
+    "training/training.md",
+    "monitoring/monitoring.md"
+  ]
 }
